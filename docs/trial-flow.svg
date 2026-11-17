@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" role="img" aria-labelledby="t d" font-family="Helvetica, Arial, sans-serif">
+  <title id="t">Trial structure of the experiment</title>
+  <desc id="d">Each trial has four stages: a cue announcing the upcoming visual search for 1,500 milliseconds, a fixation frame for 1,000 milliseconds, an emotional picture shown for 8,000 milliseconds while the participant reports pleasant or unpleasant, and finally the visual search task.</desc>
+  <rect width="900" height="250" fill="#ffffff"/>
+  <text x="30" y="40" font-size="20" font-weight="700" fill="#333333">Feelings were reported while participants expected an easy or a hard task</text>
+  <text x="30" y="64" font-size="14" fill="#8c8c8c">Structure of a single trial</text>
+
+  <!-- 1 cue -->
+  <rect x="30" y="100" width="170" height="80" rx="4" fill="#e6e6e6"/>
+  <text x="115" y="132" font-size="15" font-weight="700" fill="#555555" text-anchor="middle">Cue</text>
+  <text x="115" y="153" font-size="13" fill="#6b6b6b" text-anchor="middle">which search is next</text>
+  <text x="115" y="203" font-size="13" fill="#8c8c8c" text-anchor="middle">1,500 ms</text>
+
+  <!-- 2 fixation -->
+  <rect x="215" y="100" width="130" height="80" rx="4" fill="#e6e6e6"/>
+  <text x="280" y="132" font-size="15" font-weight="700" fill="#555555" text-anchor="middle">Fixation</text>
+  <text x="280" y="153" font-size="13" fill="#6b6b6b" text-anchor="middle">frame</text>
+  <text x="280" y="203" font-size="13" fill="#8c8c8c" text-anchor="middle">1,000 ms</text>
+
+  <!-- 3 picture (the measured part, highlighted) -->
+  <rect x="360" y="100" width="300" height="80" rx="4" fill="#2d6fb5"/>
+  <text x="510" y="132" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">Emotional picture</text>
+  <text x="510" y="153" font-size="13" fill="#ffffff" text-anchor="middle">report: pleasant or unpleasant?</text>
+  <text x="510" y="203" font-size="13" font-weight="700" fill="#2d6fb5" text-anchor="middle">8,000 ms (data modeled with the LBA)</text>
+
+  <!-- 4 search -->
+  <rect x="675" y="100" width="195" height="80" rx="4" fill="#e6e6e6"/>
+  <text x="772" y="132" font-size="15" font-weight="700" fill="#555555" text-anchor="middle">Visual search</text>
+  <text x="772" y="153" font-size="13" fill="#6b6b6b" text-anchor="middle">easy or hard</text>
+  <text x="772" y="203" font-size="13" fill="#8c8c8c" text-anchor="middle">until response</text>
+
+  <text x="30" y="238" font-size="12" fill="#8c8c8c">Based on the Method section of OzCohen, Berkovich &amp; Meiran (2024). Not to scale.</text>
+</svg>
