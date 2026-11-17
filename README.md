@@ -83,6 +83,10 @@ Emotional_Evidence_Paper/
 - Paper (open access): <https://doi.org/10.3758/s13415-024-01194-9>
 - Preregistration and OSF repository: <https://osf.io/hq8k9>
 
+## License
+
+The data, code and documentation in this repository are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE), the same license as the published article. You may share and adapt them, including commercially, as long as you give appropriate credit by citing the paper (see [Citation](#citation)).
+
 ## Acknowledgements
 
 Department of Psychology and Zelman Center of Neuroscience, Ben-Gurion University of the Negev. Supported by Grant #1547/20 from the Israel Science Foundation to N. Meiran.
